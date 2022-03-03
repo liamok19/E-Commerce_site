@@ -32,7 +32,7 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Final Look
 # Usage
-<img src='./public/assets/images/noteTaker.gif' alt="EMS_mySQL" >
+<img src='./assets/liamO_ecommerce_BACKEND.gif' alt="Ecommerce_backend" >
 
 ### Database Models
 
